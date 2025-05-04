@@ -68,6 +68,14 @@ body, #themes {
     border: 5px solid var(--red);
 }
 
+.user-photo-container {
+    width: 2%;
+    position: sticky;
+    top: 10px;
+    left: 10px;
+    border: 5px solid var(--black)
+}
+
 .flash>.editing::after {
  content: "|";
  font-weight: bolder;
